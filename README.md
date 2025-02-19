@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MansviVaghasiya
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning in tybca in collage
+- 👀 I’m interested in web Design
+- 🌱 I’m Completed BCA
 - 💞️ I’m looking to collaborate on ...
 
 
